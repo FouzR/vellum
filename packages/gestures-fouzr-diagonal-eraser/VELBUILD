@@ -19,8 +19,8 @@ https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/LICE
 options="strip tracedeps"
 
 package() {
-	install -Dm644 "$srcdir"/gestures.qmd \
-		"$pkgdir"/home/root/xovi/exthome/qt-resource-rebuilder/gestures.qmd
+	install -Dm644 "$srcdir"/diagonalerase.qmd \
+		"$pkgdir"/home/root/xovi/exthome/qt-resource-rebuilder/diagonalerase.qmd
 
 	install -Dm644 "$srcdir"/LICENSE \
 		"$pkgdir"/home/root/.vellum/licenses/$pkgname/LICENSE
