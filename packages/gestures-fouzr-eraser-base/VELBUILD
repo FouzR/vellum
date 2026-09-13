@@ -13,7 +13,7 @@ _commit="f6e17d50441e18519c81769f0a4dae443d87fba7"
 readmeurl="https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/README.md"
 donateurl="https://ko-fi.com/fouzr"
 source="
-https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/3.29/swap_erase.qmd
+https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/3.28/swap_erase.qmd
 https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/LICENSE
 "
 options="strip tracedeps"
@@ -29,7 +29,7 @@ package() {
 }
 
 
-sha512sums='0ceec323d44b0a6ff43d8e1bb18dadcde30559b421b52c7533bb94454ea19666ce7490304ff73fea5b218bb1a5ce8dee2979f6c0da931f47bd4e444074c8b8c2
+sha512sums='66ebed59046522ac1644851aadcb55ab0754fc771925feb091c86d3687209dab9be97bc5fcdceb8bebd2ed30d256e177210f3af45a4d5c58db1deff88d58b194
 swap_erase.qmd
 d361e5e8201481c6346ee6a886592c51265112be550d5224f1a7a6e116255c2f1ab8788df579d9b8372ed7bfd19bac4b6e70e00b472642966ab5b319b99a2686
 LICENSE'
