@@ -4,6 +4,7 @@ pkgver=1.0.11
 pkgrel=2
 upstream_author="FouzR"
 category="ui"
+status="unmaintained"
 pkgdesc="Adds four-finger document drawer, and multiple swipe gestures to control pen settings."
 url="https://github.com/FouzR/xovi-extensions"
 arch="noarch"
