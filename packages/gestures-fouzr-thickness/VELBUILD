@@ -27,9 +27,7 @@ package() {
 	echo "https://github.com/FouzR/xovi-extensions" > \
 		"$pkgdir"/home/root/.vellum/licenses/$pkgname/SOURCES
 }
-postinstall() {
 
-}
 
 
 sha512sums='8e040b24bb59e97f3dbbfca49a304d3cae6239703bde5c429915cdc754671067051aa704c55e02d25bbe0c8dfddc131b4359fc89bd791f486b3e3cd2a81905ec

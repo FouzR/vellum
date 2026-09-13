@@ -27,11 +27,7 @@ package() {
 	echo "https://github.com/FouzR/xovi-extensions" > \
 		"$pkgdir"/home/root/.vellum/licenses/$pkgname/SOURCES
 }
-postinstall() {
 
-}
-postdeinstall() {
-}
 
 sha512sums='34a157ae2195afe4573cd665821efe6b369ff7a30cb83ae24b77f5c620a61613a365dc1d3ad46d76bb8b466d30c525fc48e1c226f60c077ee22d9750e0d77f2a
 hide_show_toolbar.qmd
