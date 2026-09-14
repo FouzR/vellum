@@ -16,7 +16,7 @@ source="
 https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/3.28/swap_erase.qmd
 https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/LICENSE
 "
-options="strip tracedeps"
+
 
 package() {
 	install -Dm644 "$srcdir"/swap_erase.qmd \

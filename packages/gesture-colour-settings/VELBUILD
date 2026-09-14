@@ -1,7 +1,7 @@
 maintainer="Fouz Reda <fouz290903@gmail.com>"
 pkgname=gesture-colour-settings
 pkgver=1.0.12
-pkgrel=3
+pkgrel=0
 upstream_author="FouzR"
 category="ui"
 pkgdesc="Gesture and Accessibility menu for colour preferences."
@@ -16,7 +16,7 @@ source="
 https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/3.28/gesture_colors_fouzr.qmd
 https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/LICENSE
 "
-options="strip tracedeps"
+
 
 package() {
 	install -Dm644 "$srcdir"/gesture_colors_fouzr.qmd \

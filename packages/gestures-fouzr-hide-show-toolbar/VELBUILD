@@ -16,7 +16,7 @@ source="
 https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/3.28/hide_show_toolbar.qmd
 https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/LICENSE
 "
-options="strip tracedeps"
+
 
 package() {
 	install -Dm644 "$srcdir"/hide_show_toolbar.qmd \

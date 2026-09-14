@@ -16,7 +16,6 @@ source="
 https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/3.28/gesture_base_fouzr.qmd
 https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/LICENSE
 "
-options="strip tracedeps"
 
 package() {
 	install -Dm644 "$srcdir"/gesture_base_fouzr.qmd \
