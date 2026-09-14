@@ -1,14 +1,14 @@
 maintainer="Fouz Reda <fouz290903@gmail.com>"
 pkgname=gesture-colour-settings
-pkgver=1.0.10
-pkgrel=2
+pkgver=1.0.12
+pkgrel=3
 upstream_author="FouzR"
 category="ui"
 pkgdesc="Gesture and Accessibility menu for colour preferences."
 url="https://github.com/FouzR/xovi-extensions"
 arch="noarch"
 license="GPL-3.0"
-depends="qt-resource-rebuilder gestures-fouzr remarkable-os>=3.27 remarkable-os<3.28"
+depends="qt-resource-rebuilder remarkable-os>=3.28 remarkable-os<3.29"
 _commit="d898cf9271cc20682d1c08e23c4b513f3c301fec"
 readmeurl="https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/README.md"
 donateurl="https://ko-fi.com/fouzr"

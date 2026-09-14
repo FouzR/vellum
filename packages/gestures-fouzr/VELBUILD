@@ -1,7 +1,7 @@
 maintainer="Fouz Reda <fouz290903@gmail.com>"
 pkgname=gestures-fouzr
 pkgver=1.0.11
-pkgrel=2
+pkgrel=3
 upstream_author="FouzR"
 category="ui"
 status="unmaintained"

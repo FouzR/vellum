@@ -1,14 +1,14 @@
 maintainer="Fouz Reda <fouz290903@gmail.com>"
 pkgname=gestures-fouzr-2-finger-edge-eraser
 pkgver=1.0.0
-pkgrel=2
+pkgrel=0
 upstream_author="FouzR"
 category="ui"
 pkgdesc="Adds a 2 finger swipe from the bottom left edge to swap eraser and pen"
 url="https://github.com/FouzR/xovi-extensions"
 arch="noarch"
 license="GPL-3.0"
-depends="qt-resource-rebuilder gestures-fouzr-base gestures-fourzr-eraser-base !gestures-ingatellent remarkable-os>=3.28 remarkable-os<3.29"
+depends="qt-resource-rebuilder gestures-fouzr-base gestures-fouzr-eraser-base remarkable-os>=3.28 remarkable-os<3.29"
 _commit="f6e17d50441e18519c81769f0a4dae443d87fba7"
 readmeurl="https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/README.md"
 donateurl="https://ko-fi.com/fouzr"

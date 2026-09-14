@@ -1,14 +1,14 @@
 maintainer="Fouz Reda <fouz290903@gmail.com>"
 pkgname=gestures-fouzr-diagonal-selection
 pkgver=1.0.0
-pkgrel=2
+pkgrel=0
 upstream_author="FouzR"
 category="ui"
 pkgdesc="Adds a diagonal-up gesture on the left/right edge to switch between selection and pen"
 url="https://github.com/FouzR/xovi-extensions"
 arch="noarch"
 license="GPL-3.0"
-depends="qt-resource-rebuilder gestures-fouzr-base !gestures-ingatellent remarkable-os>=3.28 remarkable-os<3.29"
+depends="qt-resource-rebuilder gestures-fouzr-base remarkable-os>=3.28 remarkable-os<3.29"
 _commit="f6e17d50441e18519c81769f0a4dae443d87fba7"
 readmeurl="https://raw.githubusercontent.com/$upstream_author/xovi-extensions/$_commit/README.md"
 donateurl="https://ko-fi.com/fouzr"
