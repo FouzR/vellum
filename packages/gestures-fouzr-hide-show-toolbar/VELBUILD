@@ -1,5 +1,5 @@
 maintainer="Fouz Reda <fouz290903@gmail.com>"
-pkgname=gestures-fouzr-hide-show-toolbar
+pkgname=gestures-hide-show-toolbar
 pkgver=1.0.0
 pkgrel=0
 upstream_author="FouzR"

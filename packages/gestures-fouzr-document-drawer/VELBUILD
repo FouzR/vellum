@@ -1,5 +1,5 @@
 maintainer="Fouz Reda <fouz290903@gmail.com>"
-pkgname=gestures-fouzr-document-drawer
+pkgname=gestures-document-drawer
 pkgver=1.0.0
 pkgrel=0
 upstream_author="FouzR"
